@@ -1,0 +1,23 @@
+{
+    "SERIES": [
+        {
+            "ID": 1,
+            "NOME": "Game of thrones",
+            "GENERO": "Fantasia medieval",
+            "DATA_CADASTRO": "2020-02-16 18:09"
+        },
+        {
+            "ID": 2,
+            "NOME": "Rick and morty",
+            "GENERO": "Animação; Humor negro",
+            "DATA_CADASTRO": "2020-02-16 18:32"
+        },
+        {
+            "ID": 3,
+            "NOME": "MINDHUNTER",
+            "GENERO": "Séries dramáticas sobre crimes",
+            "DATA_CADASTRO": "2020-02-16 18:34"
+        }
+    ],
+    "GENERO": []
+  }
